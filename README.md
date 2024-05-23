@@ -3,6 +3,7 @@
 **OBJECTIVE**: To develop a comprehensive credit card weekly dashboard that provides real time insights into key performance indicators and trends enabling stakeholders to monitor and analyse credit card operations effectively
 
 **STEPS**:
+
 1.Using PostgreSQL:Creating tables,credit card detail table and customer detail table ,Then importing data from csv file by writing query or by import option available in schema
 
 2.Importing database to powerbi
@@ -43,7 +44,7 @@ wow_revenue = DIVIDE(([Current_Week_Revenue]-[Previous_Week_Revenue]),[Previous_
 
 **INSIGHTS**
 
-Overview YTD:
+Overview YTD(Year to date):
 
 • Overall revenue is 57M
 
