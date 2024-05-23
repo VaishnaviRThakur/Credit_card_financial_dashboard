@@ -1,1 +1,0 @@
-select * from cust_detail;
