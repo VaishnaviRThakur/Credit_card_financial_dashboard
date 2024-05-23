@@ -42,6 +42,8 @@ wow_revenue = DIVIDE(([Current_Week_Revenue]-[Previous_Week_Revenue]),[Previous_
 
 4.Designing Dashboard
 
+
+
 **INSIGHTS**
 
 Overview YTD(Year to date):
